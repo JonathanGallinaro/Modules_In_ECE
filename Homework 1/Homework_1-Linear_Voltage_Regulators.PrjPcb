@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for Homework_1-Linear_Voltage_Regulators
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -98,7 +98,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SOIELXVB
 
 [Document4]
-DocumentPath=Homework_1-Linear_Voltage_Regulators.OutJob
+DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD21\Library\JonathanGallinaroTitleblock.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -112,7 +112,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TGZLZMFP
+
+[Parameter1]
+Name=Revision
+Value=1
 
 [Configuration1]
 Name=Sources
@@ -161,7 +165,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Homework_1-Linear_Voltage_Regulators
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
