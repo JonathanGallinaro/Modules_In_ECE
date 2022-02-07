@@ -9,17 +9,20 @@ What is the datasheet used?
 
 
 **Adjustable Voltage Linear Regulator:**
+
 What the design is?
+
 The type of circuit used for this design is a standard setup from the datasheet of the manufacurer. 
 It consists of bulk and bypass capacitors as well as an adjustable potentiometer/rehenstat in order to vary the output voltage of the system. 
 What is the datasheet used?
 
 **Useful Information:**
+
 How to import the design into a new diptrace schematic?
 
 Since I am using Altium designer I will list the steps for how to use it in DipTrace & Altium Designer. 
 
-DipTrace: 
+**DipTrace:**
 
 Step 1: Open up schematic capture. 
 
@@ -27,7 +30,10 @@ Step 2: File --> Import --> DipTrace ASCII --> Click File --> Open
 
 Step 3: File will be imported into schematic editor
 
-Altium Designer: 
+**Altium Designer:**
 
-Step 1: 
+Step 1: Open new schematic
 
+Step 2: File --> Import --> DXF/DWG --> Click File --> Open
+
+Step 3: File will be imported into Project. 
